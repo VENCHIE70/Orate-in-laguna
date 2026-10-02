@@ -1,0 +1,6 @@
+{
+  "name": "Laguna Orate - Calendario Pesca Venezia",
+  "description": "Calendario di pesca e maree per l'orata nella Laguna di Venezia con calcolo dei giorni ed orari migliori e funzione di esportazione .ics per Google e Apple Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
